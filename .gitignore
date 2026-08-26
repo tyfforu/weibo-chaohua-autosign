@@ -1,0 +1,21 @@
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志与环境
+*.log
+.env
+.env.*
+
+# 构建产物（如未来引入）
+dist/
+build/
+node_modules/
